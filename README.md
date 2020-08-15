@@ -14,3 +14,7 @@ The application does nothing for now. We should see "Started RestutorialApplicat
 This shows us that the application does nothing yet but has started successfully.
 
 Congratulations. We have created an application with one step which is the base for very easy development.
+
+
+Warning: I intentionally made a trap. The name of the project is false. It should be resttutorial with two "t"s.
+The reason I have done this is to make sure you understand how important it is to "refactor" code and not "rename" code.
